@@ -18,8 +18,6 @@
 <a href="https://twitter.com/@rishujaiz563" target="blank"><img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100" alt="@rishujaiz563"></a>
 </p>
 
-
-
 ## Animated Social Media Icons [🔝](#--gifs-for-readme--)
 
 <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
