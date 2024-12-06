@@ -28,9 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishujaiz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rishujaiz&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+
 
 ---
 
@@ -71,7 +69,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🌍 Let's Connect!
 
 <div align="center">
   <a href="https://twitter.com/@rishujaiz563" target="_blank">
@@ -96,7 +94,7 @@
 
 ---
 
-### 🎉 Trophies
+### 📈 My GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rishujaiz&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
@@ -105,6 +103,38 @@
 ---
 
 ### 🎶 Fun Fact
-"When I'm not coding, you can find me exploring the world of music and creativity!"
+"When I'm not coding, you can find me exploring the world of music and creativity! Music fuels my brain for the next big idea!"
 
 ---
+
+### 💼 Resume & Portfolio
+
+🚀 **Explore my work and projects:**  
+[**Visit My Portfolio**](https://rishujaiswal.com.np/)  
+
+📄 **Download my Resume:**  
+[**Click Here to Download**](https://rishujaiswal_resume.com)
+
+
+---
+
+### 📚 Ongoing Projects
+
+- **Emotion-Aware Music Recommendation System** – Working on emotion detection through voice recognition.
+- **Social Media Content Optimization** – Developing algorithms for better content curation.
+- **Deep Learning Models** – Building and training models using TensorFlow and Keras for various applications in AI and ML.
+
+---
+
+### 📍 Currently Learning
+
+- Advanced **Natural Language Processing** (NLP) techniques for chatbots and sentiment analysis.
+
+---
+
+
+
+
+
+
+
