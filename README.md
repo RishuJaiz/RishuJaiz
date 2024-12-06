@@ -113,7 +113,8 @@
 [**Visit My Portfolio**](https://rishujaiswal.com.np/)  
 
 📄 **Download my Resume:**  
-[**Click Here to Download**](https://rishujaiswal_resume.com)
+[**Click Here to Download**](https://github.com/RishuJaiz/Resume/raw/main/Rishu's%20resume.pdf)
+
 
 
 ---
