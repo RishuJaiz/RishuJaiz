@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif", I'm Rishu Jaiswal</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rishu Jaiswal</h1>
 <h3 align="center">Passionate Pursuer of AI & ML Excellence: Turning Lines of Code into Intelligent Adventures</h3>
 
 <p align="center">
