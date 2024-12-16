@@ -24,7 +24,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishujaiz&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishujaiz&theme=radical" alt="GitHub Streak" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishujaiz&theme=radical" alt="GitHub Streak" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishujaiz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
