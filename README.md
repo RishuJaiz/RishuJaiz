@@ -34,44 +34,42 @@
 
 ### 💻 Technologies & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 30 px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" alt="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" alt="Python" />
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100" alt="Java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" alt="Java" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="100" alt="Django" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="80" height="80" alt="Django" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="100" alt="Flask" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="100" alt="Flask" />
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="80" height="80" alt="Flask" />
   </a>
   <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="100" alt="TensorFlow" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="80" height="80" alt="TensorFlow" />
   </a>
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100" alt="OpenCV" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="80" height="80" alt="OpenCV" />
   </a>
   <a href="https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="100" alt="HTML" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="80" height="80" alt="HTML" />
   </a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="100" alt="CSS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80" height="80" alt="CSS" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="100" alt="Pandas" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas" />
   </a>
   <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" target="_blank">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" alt="GIF" />
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" height="80" alt="GIF" />
   </a>
   <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" target="_blank">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" alt="GIF" />
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="80" height="80" alt="GIF" />
   </a>
 </div>
+
 
 ---
 
