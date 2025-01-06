@@ -47,6 +47,9 @@
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="100" alt="Flask" />
   </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="100" alt="Flask" />
+  </a>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="100" alt="TensorFlow" />
   </a>
