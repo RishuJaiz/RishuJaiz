@@ -34,7 +34,7 @@
 
 ### 💻 Technologies & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 30px;">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" alt="Python" />
   </a>
